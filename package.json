@@ -5,12 +5,15 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "babel-jest-26": "npm:babel-jest@^26.6.0",
+    "babel-jest-27": "npm:babel-jest@^27.5.1",
     "mathjs": "10.5.0",
     "node-sass": "^7.0.1",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-router-dom": "5.3.0",
-    "react-scripts": "5.0.1"
+    "react-scripts-4": "npm:react-scripts@^4.0.3",
+    "react-scripts-5": "npm:react-scripts@^5.0.1"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",

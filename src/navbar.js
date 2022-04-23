@@ -16,6 +16,8 @@ export default function NavBar(props) {
         <NavLink to="/text-align">TextAlign </NavLink>
         <NavLink to="/color-change">Comp One </NavLink>
       </div>
+      <p>I understand that there aren't a lot of styles here....</p>
+      <p>BUT... Enjoy clicking the buttons above.</p>
     </div>
   );
 }

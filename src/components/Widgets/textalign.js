@@ -20,6 +20,7 @@ class TextAlign extends React.Component {
         <button onClick={() => this.handleAlign("left")}>Left</button>
         <button onClick={() => this.handleAlign("center")}>center</button>
         <button onClick={() => this.handleAlign("right")}>right</button>
+        <p>click the Buttons on the screen back and forth</p>
       </div>
     );
   }
